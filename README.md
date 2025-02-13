@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou Geovanne! 👋
 
-<!--
-**Geovanne-eng/Geovanne-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mim
 
-Here are some ideas to get you started:
+👨‍💻 Estudando **Engenharia da Computação**, **Ciência de Dados** e **Machine Learning**.  
+📚 Atualmente aprendendo **HTML, CSS, JavaScript, Python e Git/GitHub**.  
+🎯 Interesse especial em unir Psicologia e Inteligência Artificial.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tecnologias e Ferramentas
+
+- **Linguagens**: Python, JavaScript, SQL
+- **Desenvolvimento Web**: HTML5, CSS3, Bootstrap
+- **Banco de Dados**: MySQL, PostgreSQL
+- **Data Science & Machine Learning**: Pandas, NumPy, Matplotlib, Scikit-Learn
+- **Ferramentas**: Git & GitHub, VS Code, Jupyter Notebook
+
+---
+
+### 🌍 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pereirageovanne/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jowgiovanni/)  
+
+
+📩 **Contato:** pereirageovanne.eng@gmail.com
+
+---
+
+⭐ **Se gostou do meu perfil, não esqueça de dar uma estrela nos repositórios!** ⭐
