@@ -52,5 +52,4 @@
 
 ⭐ **Se gostou do meu perfil, não esqueça de dar uma estrela nos repositórios!** ⭐ 🚀
 
-![Snake animation](https://github.com/Geovanne-eng/Geovanne-eng/blob/output/github-contribution-grid-snake.svg)
 
