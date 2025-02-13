@@ -11,10 +11,20 @@
 ### 🛠 Tecnologias e Ferramentas
 
 - **Linguagens**: Python, JavaScript, SQL
+  
+  <img loading="lazy"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />
+  <img loading="lazy"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img loading="lazy"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40" />
+  
 - **Desenvolvimento Web**: HTML5, CSS3, Bootstrap
 - **Banco de Dados**: MySQL, PostgreSQL
 - **Data Science & Machine Learning**: Pandas, NumPy, Matplotlib, Scikit-Learn
 - **Ferramentas**: Git & GitHub, VS Code, Jupyter Notebook
+
+
+
+
+          
 
 ---
 
